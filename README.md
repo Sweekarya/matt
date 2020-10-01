@@ -1,4 +1,5 @@
-matt
+MATT
 ====
 
-my personal website
+WELCOME
+It's my personal website.
